@@ -14,7 +14,7 @@ This dataset presents transactions that occurred in two days, where we have 492 
 
 1. get the code from the repository
 ```
-git clone https://github.com/sagnikghoshcr7/Credit-Card-Fraud-Detection.git 
+git clone https://github.com/ingabolee/fraud-detection.git
 ```
 2. [download the dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
 
